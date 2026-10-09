@@ -20,7 +20,6 @@ Este é o primeiro projeto da minha jornada de 200 projetos com C#. Ele imprime 
 3. Compile e execute o arquivo `Program.cs`
 
 ## 🔖 Resultado esperado
-https://www.youtube.com/watch?v=H_dSInkI8rA
 ## 📚 Autor
 Carlos Alberto – [@CarlosIMAlberto](https://github.com/CarlosIMAlberto)
 
